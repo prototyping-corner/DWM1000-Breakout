@@ -12,7 +12,7 @@ This breakout is for the Decawave DWM1000 module in a breadboard friendly form f
 – Resistors and solder bridge pads for setting SPI phase and polarities  
 – Exposed pads for SFD and ROK LEDs  
   
-Open source hardware licensed [under the CERN OHL v1.2](https://github.com/prototyping-corner/UWB-Breakout/blob/master/LICENSE)
+Open source hardware licensed [under the CERN OHL v1.2](https://github.com/prototyping-corner/UWB-Breakout/blob/master/LICENSE)  
 Documentation licensed under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 **More information:**  
