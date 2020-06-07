@@ -1,4 +1,4 @@
-# UWB-Breakout
+# DWM1000 Breakout
 ![License](https://img.shields.io/badge/license-CERN-green)  
 This breakout is for the Decawave DWM1000 module in a breadboard friendly form factor with onboard logic level converter and status LED's. The DWM1000 is an IEEE802.15.4-2011 UWB compliant wireless module capable of precision indoor positioning and high data rates, making it perfect for projects that require localization where GPS may not be available or suitable.  
   
